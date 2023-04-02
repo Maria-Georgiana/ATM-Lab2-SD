@@ -25,16 +25,6 @@ void ATM::afisare_tranzactii() {
 }
 
 bool ATM::adaugare_tranzactie(float suma, int bancnote, int numar_bancnote) {
-//    for (int i = 0; i < 100; i++) {
-//        if (this->Tranzactii[i] == nullptr) {
-//            if (suma > 0 && numar_bancnote > 0 && bancnote > 0) {
-//                this->Tranzactii[i] = new Tranzactie(suma, bancnote, numar_bancnote);
-//                Colectie.set_occurrences(bancnote, numar_bancnote);
-//                return true;
-//            }
-//        }
-//    }
-//    return false;
     if (suma <= 0 || bancnote <= 0 || numar_bancnote <= 0) {
         return false;
     }

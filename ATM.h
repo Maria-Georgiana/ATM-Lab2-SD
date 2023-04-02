@@ -19,7 +19,6 @@ public:
     void afisare_bancnote_disponibile();
     void afisare_tranzactii();
     bool adaugare_tranzactie(float suma, int tip, int numarBancnote);
-    bool confirmare_plata();
 };
 
 
