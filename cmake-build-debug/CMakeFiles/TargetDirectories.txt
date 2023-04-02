@@ -1,0 +1,3 @@
+C:/Users/Maria/CLionProjects/ATM-Lab2-SD/cmake-build-debug/CMakeFiles/ATM_Lab2_SD.dir
+C:/Users/Maria/CLionProjects/ATM-Lab2-SD/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Maria/CLionProjects/ATM-Lab2-SD/cmake-build-debug/CMakeFiles/rebuild_cache.dir
